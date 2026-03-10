@@ -2,5 +2,6 @@
 
 # id:LD22811 
 
+https://api.worldquantbrain.com/authentication 
 username = "807159696@qq.com" password = "qj621102" 
 {"email": "807159696@qq.com", "password": "qj621102"}
