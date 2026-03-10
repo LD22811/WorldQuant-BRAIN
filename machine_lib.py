@@ -723,8 +723,8 @@ def twin_field_factory(op, field, fields):
  
 def login_hk():
     
-    username = ""
-    password = ""
+    username = "807159696@qq.com"
+    password = "qj621102"
     
     # Create a session to persistently store the headers
     s = requests.Session()
@@ -758,4 +758,5 @@ def login_hk():
         print("Logged in successfully.")
     
     return s 
+
 
